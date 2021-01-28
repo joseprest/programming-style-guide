@@ -6,21 +6,22 @@
 
 ## Components
 
-- The components should be self-contained and well-written using natural, idiomatic code. Everything needed for the component should be in one file: the component file.
+- Everything needed for the component should be in one file: the component file.
 - Information displayed by components must be fully configurable using properly typed props that have defined default values.
-- In `Home.vue`, include example usage of each component, with example data.
+- Include example usage of each component, with example data, in the associated vue.
 
 ## Styling
 
 - Do not use inline CSS in templates. Use properly scoped SCSS in the style section of the file.
-- Stick to using CSS3 for variables, not SCSS.
+- Stick to using the provided CSS3 variables, and do not use SCSS to create any new ones.
 - Use the provided icons, fonts, and colours, if applicable.
+- Use `npm run lint --fix` to automatically fix styling errors. The project should have no errors or warnings.
 
 ## Responsiveness
 
 Components and pages must be **fully responsive** and mobile first. This means that implementations should first be tested on mobile devices followed by larger screens.
 
-- Components should fully scale to the width of their container
+- Components should fully scale to the width of their container.
 - Always use `display: flex;`.
 - Always use `%` and `rem`.
 - Margins, paddings, and font sizes must be defined using `rem`.
