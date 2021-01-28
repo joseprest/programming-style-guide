@@ -8,7 +8,7 @@
 
 - The components should be self-contained and well-written using natural, idiomatic code. Everything needed for the component should be in one file: the component file.
 - Information displayed by components must be fully configurable using properly typed props that have defined default values.
-- For each component, include an example usage of the component with example data.
+- In `Home.vue`, include example usage of each component, with example data.
 
 ## Styling
 
@@ -22,7 +22,7 @@ Components and pages must be **fully responsive** and mobile first. This means t
 
 - Always use `display: flex;`.
 - Always use `%` and `rem`.
-- Margins and paddings must be defined using `rem`.
+- Margins, paddings, and font sizes must be defined using `rem`.
 
 ## Frameworks
 
