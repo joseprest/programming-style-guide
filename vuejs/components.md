@@ -19,9 +19,8 @@
 
 ## Responsiveness
 
-Components and pages must be **fully responsive** and mobile first. This means that implementations should first be tested on mobile devices followed by larger screens.
-
-- Components should automatically scale to the width of their container.
+- Components and pages must be **fully responsive** and mobile first. This means that implementations should first be tested on mobile devices followed by larger screens.
+- Each component should automatically scale to its container's width (width: 100%) and automatically adjust its height to display its content correctly.  
 - Always use `display: flex;`.
 - Always use `%` and `rem`.
 - Margins, paddings, and font sizes must be defined using `rem`.
