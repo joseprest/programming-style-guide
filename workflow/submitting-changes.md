@@ -15,4 +15,6 @@
 
 4. If there are changes requested, commit and push changes to your branch. You do not need to open a new pull request, the existing pull request will automatically update.
 
-5. If the pull request is approved, it will be merged.
+5. If there are new changes in the main branch that are not in your branch, update your branch with these changes. A pull request cannot be merged if it is not up to date with the main branch.
+
+6. If the pull request is approved, it will be merged.
