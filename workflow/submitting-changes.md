@@ -9,9 +9,9 @@
 
     - Your changes have been tested and function according to their specifications.
     - Your code follows style guidelines.
-    - You have run any linters and tests, if applicable.
+    - You have run any linters and tests.
 
-3. Open a pull request to the main branch using the GitHub website in order to get feedback on your work. Include screenshots if applicable.
+3. Open a pull request to the main branch using the GitHub website in order to get feedback on your work. Include screenshots and videos.
 
 4. If there are changes requested, commit and push changes to your branch. You do not need to open a new pull request, the existing pull request will automatically update.
 
