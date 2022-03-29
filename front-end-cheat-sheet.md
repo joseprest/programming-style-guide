@@ -4,7 +4,8 @@
 
 1. Do not re-create the wheel; any complex solution is bad, so keep it simple.
 2. Do not use hacks and tricks; if you feel like you should, you lack the knowledge to do things the right way.
-
+3. Use the [Tailwind CSS Intellisence](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss), [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), and [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) extensions in Visual Code to enhance your Tailwind development experience and enforce consistent ordering of Tailwind classes keeping our code similar!
+4. Lint your code before pushing an update.
 
 ## 🎨 Designing
 
